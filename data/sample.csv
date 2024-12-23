@@ -1,0 +1,100 @@
+ID,Note,json
+1,"**Clinical Notes**
+
+**Patient Information:**
+- Age: 41 years old
+- Gender: Male
+
+**Visit Motivation:** Anemia evaluation
+
+**Chief Complaints and Symptoms:**
+The patient presents with complaints of anemia, fever, fatigue, difficulty breathing (dyspnea), vomiting, dizziness, blurred vision, wheezing, and pale skin. The patient reports that these symptoms have been progressively worsening over the past few weeks.
+
+**History of Present Illness:**
+- **Fever**: Intermittent low-grade fevers for approximately 2 weeks.
+- **Fatigue**: Persistent and severe fatigue affecting daily activities.
+- **Difficulty Breathing (Dyspnea)**: Experiencing shortness of breath, particularly with exertion. No history of chronic respiratory conditions.
+- **Vomiting**: Occasional episodes of non-bilious vomiting for the past week.
+- **Dizziness**: Episodes of dizziness, especially upon standing, which can be severe enough to cause near-fainting spells.
+- **Blurred Vision**: New onset of blurred vision, with occasional transient visual disturbances.
+- **Wheezing**: Recent history of wheezing noted by the patient during exertion or when lying down.
+
+**Review of Systems:**
+- Constitutional: Fatigue, fever
+- Respiratory: Dyspnea, wheezing
+- Gastrointestinal: Vomiting
+- Cardiovascular: Palpitations (not specifically reported but heart rate is elevated)
+- Neurological: Dizziness, blurred vision
+
+**Physical Examination:**
+- General Appearance: Patient appears pale and fatigued.
+- Vital Signs:
+  - Heart Rate: 114 bpm (tachycardia)
+  - Oxygen Saturation: 98.4% on room air
+  - Blood Pressure: BP not provided but should be assessed.
+  - Temperature: Not provided, but given the history of fever, elevated temperature should be considered.
+
+**Laboratory Findings and Vital Signs:**
+- **Hemoglobin**: Not directly measured in this note but anemia is noted as the visit motivation. Further workup for hemoglobin levels is necessary.
+- Cholesterol Level: 132.8 mg/dL (within normal range)
+- Glucose Level: 110.6 mg/dL (normal)
+
+**Assessment and Plan:**
+The patient presents with a constellation of symptoms including fever, fatigue, dyspnea, vomiting, dizziness, blurred vision, wheezing, and pale skin, all of which may be related to anemia or other underlying conditions. The elevated heart rate could be secondary to the anemia and/or inflammatory response.
+
+**Diagnosis Considerations:**
+1. **Anemia**: Given the presentation of fatigue, dyspnea, and pale skin.
+2. **Infectious Process**: Potential infectious etiology contributing to fever and tachycardia.
+3. **Respiratory Issues**: Possible exacerbation of underlying respiratory conditions or secondary to anemia.
+4. **Gastrointestinal Disturbances**: Vomiting may indicate gastrointestinal involvement.
+
+**Plan:**
+1. Order complete blood count (CBC) with differential, reticulocyte count, and ferritin levels to assess the type and severity of anemia.
+2. Consider ordering chest X-ray and pulmonary function tests if respiratory symptoms are prominent.
+3. Monitor for signs of infection, including a CBC, CRP, and possibly cultures if clinically indicated.
+4. Address gastrointestinal symptoms with further evaluation if necessary (e.g., stool studies, abdominal imaging).
+5. Follow-up in 1-2 weeks or sooner based on the patient’s response to treatment and clinical status.
+
+**Nursing Care:**
+Monitor for signs of worsening anemia, dehydration from vomiting, and respiratory distress. Ensure adequate hydration and nutrition support as needed.","{""patient_info"": {""age"": 41, ""gender"": ""Male""}, ""visit_motivation"": ""Anemia"", ""symptoms"": [""fever"", ""fatigue"", ""difficulty_breathing"", ""vomiting"", ""dizziness"", ""blurred_vision"", ""wheezing"", ""pale_skin""], ""vital_signs"": {""heart_rate"": {""value"": 114, ""unit"": ""bpm""}, ""oxygen_saturation"": {""value"": 98.4, ""unit"": ""%""}, ""cholesterol_level"": {""value"": 132.8, ""unit"": ""mg/dL""}, ""glucose_level"": {""value"": 110.6, ""unit"": ""mg/dL""}}}"
+2,"Clinical Notes:
+
+Patient: 56-year-old male
+Chief Complaint: Allergies
+
+History of Present Illness:
+The patient presents with complaints of allergies. He reports experiencing a runny nose, frequent sneezing, and itchy eyes. The patient also mentions having blurred vision and wheezing. These symptoms have been persistent and bothersome, prompting him to seek medical attention. No known recent changes in environment or new exposures reported.
+
+Past Medical History:
+- Seasonal allergies (longstanding)
+- Hypertension (well-controlled on medication)
+
+Medications:
+- Lisinopril 10mg daily for hypertension
+
+Vital Signs:
+Temperature: 36.6°C (normal)
+Respiratory Rate: 13 breaths/min (normal)
+Glucose Level: 99.0 mg/dL (normal)
+
+Physical Examination:
+General: Alert and oriented, in no acute distress
+HEENT: Conjunctival injection noted, nasal mucosa appears erythematous and edematous with clear discharge
+Lungs: Wheezing heard bilaterally, no crackles or rhonchi
+Cardiovascular: Regular rate and rhythm, no murmurs
+Skin: No rashes or lesions noted
+
+Assessment:
+1. Allergic Rhinitis with ocular involvement
+2. Allergic Asthma (new onset or exacerbation)
+3. Blurred vision - possibly related to allergic conjunctivitis, but requires further evaluation
+
+Plan:
+1. Prescribe antihistamine (e.g., Cetirizine 10mg daily) for allergy symptoms
+2. Prescribe Fluticasone nasal spray for nasal congestion
+3. Initiate Albuterol inhaler as needed for wheezing
+4. Recommend over-the-counter artificial tears for eye irritation
+5. Refer to ophthalmology for evaluation of blurred vision
+6. Educate patient on allergen avoidance strategies
+7. Follow up in 2 weeks to assess symptom improvement
+8. Consider allergy testing if symptoms persist despite treatment","{""patient_info"": {""age"": 56, ""gender"": ""Male""}, ""visit_motivation"": ""Allergies"", ""symptoms"": [""runny_nose"", ""sneezing"", ""itchy_eyes"", ""blurred_vision"", ""wheezing""], ""vital_signs"": {""temperature"": {""value"": 36.6, ""unit"": ""\u00b0C""}, ""respiratory_rate"": {""value"": 13, ""unit"": ""breaths/min""}, ""glucose_level"": {""value"": 99.0, ""unit"": ""mg/dL""}}}"
